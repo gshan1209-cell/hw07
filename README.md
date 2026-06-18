@@ -1,6 +1,5 @@
 # AI Boston 房價預測與特徵選擇系統
 此專案使用 Boston Housing 資料集來比較 9 種特徵選擇演算法在回歸問題中的表現。
-![alt text](reports/figures/feature_selection_performance_allinone.png)
 
 ## 目標
 
