@@ -1,0 +1,14 @@
+rank,pearson,spearman,f-test,mutual_info,rfe,sfs_fwd,sbs_bwd,lasso_l1,random_forest
+1,lstat,lstat,lstat,lstat,nox,lstat,lstat,rm,rm
+2,rm,rm,rm,rm,rm,rm,rm,dis,lstat
+3,ptratio,indus,ptratio,ptratio,chas,ptratio,ptratio,ptratio,dis
+4,indus,nox,indus,indus,ptratio,b,b,lstat,crim
+5,tax,ptratio,tax,nox,dis,dis,dis,rad,ptratio
+6,nox,tax,nox,tax,lstat,nox,nox,crim,tax
+7,rad,crim,rad,crim,crim,chas,chas,zn,nox
+8,crim,age,crim,age,rad,crim,crim,tax,age
+9,age,dis,age,dis,indus,rad,rad,b,b
+10,b,zn,b,rad,zn,tax,tax,age,indus
+11,zn,rad,zn,b,b,zn,zn,nox,rad
+12,dis,b,dis,zn,tax,indus,indus,indus,zn
+13,chas,chas,chas,chas,age,age,age,chas,chas
